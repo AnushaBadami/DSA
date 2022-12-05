@@ -1,8 +1,8 @@
-Brute-Force
+/*Brute-Force Approach
 The basic idea of this approach is to sort both the strings and compare the characters of the sorted strings.
 
 Sort both strings.
-Compare the characters of the sorted strings
+Compare the characters of the sorted strings*/
 
 
 
